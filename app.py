@@ -32,9 +32,9 @@ app.secret_key = "vijay"
 
 # MySQL connection details
 MYSQL_HOST = "sql12.freesqldatabase.com"
-MYSQL_USER = "sql12772917"  # replace with your MySQL username
-MYSQL_PASSWORD = "hfk3ge1vcu"  # replace with your MySQL password
-MYSQL_DB = "sql12772917"  # replace with your MySQL database name
+MYSQL_USER = "sql12774353"  # replace with your MySQL username
+MYSQL_PASSWORD = "k8y1ikda2I"  # replace with your MySQL password
+MYSQL_DB = "sql12774353"  # replace with your MySQL database name
 MYSQL_PORT = '3306'
 
 # Google OAuth details
